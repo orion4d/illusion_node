@@ -1,12 +1,5 @@
-# Core dependencies (essentiels)
-numpy>=1.21.0
-scipy>=1.7.0
-opencv-python>=4.5.0
-pillow>=8.0.0
+# requirements.txt
 
-# Image processing
-scikit-image>=0.18.0
-imageio>=2.9.0
-
-# Performance
-numba>=0.56.0
+numpy
+torch
+Pillow
