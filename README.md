@@ -23,6 +23,7 @@ Below is a summary of each node provided in this pack:
 ---
 
 ### 1. Pattern Generator (`PatternGenerator_node.py`)
+![image](https://github.com/user-attachments/assets/1675be97-24bb-4fac-96c6-9b3a677e81c1)
 
 *   **Display Name:** `Pattern Generator`
 *   **Function:** Generates various 2D procedural patterns.
@@ -42,10 +43,11 @@ Below is a summary of each node provided in this pack:
             *   `parameter1`: 0 for Color Noise, 1 for Grayscale Noise.
             *   `parameter2`: Block scale (1 for pixel-level noise).
     *   Customizable `width`, `height`, `color1_hex`, `color2_hex`, and `seed`.
-
+![image](https://github.com/user-attachments/assets/51a376d8-bd41-486e-b4f4-73397fd630e9)
 ---
 
 ### 2. Tessellation Composer (Advanced) (`TessellationNode.py`)
+![image](https://github.com/user-attachments/assets/fac183bd-8939-47a9-9bd2-dde52c188575)
 
 *   **Display Name:** `Tessellation Composer (Advanced)`
 *   **Function:** Creates complex tiled patterns from an input image, with various transformations per tile.
@@ -66,6 +68,7 @@ Below is a summary of each node provided in this pack:
 ---
 
 ### 3. Optical Illusion Generator (`OpticalIllusionNode.py`)
+![image](https://github.com/user-attachments/assets/8d6f91d1-1406-48b7-8934-e1ded76f81c1)
 
 *   **Display Name:** `OpticalIllusionNode` (or similar, based on class name if not explicitly mapped)
 *   **Function:** Generates classic optical illusion patterns.
@@ -80,6 +83,7 @@ Below is a summary of each node provided in this pack:
 ---
 
 ### 4. Optical Geometric Pattern Generator (`OpticalGeometricNode.py`)
+![image](https://github.com/user-attachments/assets/26a1e120-9f86-4f0c-8ce1-6558a11988df)
 
 *   **Display Name:** `OpticalGeometricNode` (or similar, based on class name if not explicitly mapped)
 *   **Function:** Generates various geometric optical art patterns.
@@ -96,6 +100,7 @@ Below is a summary of each node provided in this pack:
 ---
 
 ### 5. Color/Gradient Image (`ColorImageNode.py`)
+![image](https://github.com/user-attachments/assets/6fa703f6-21d6-476c-84e9-84b2d0a72341)
 
 *   **Display Name:** `Color/Gradient Image`
 *   **Function:** Creates images with solid colors or various types of gradients.
@@ -112,6 +117,7 @@ Below is a summary of each node provided in this pack:
 ---
 
 ### 6. Autostereogram Creator (Advanced) (`autostereogram_node.py`)
+![image](https://github.com/user-attachments/assets/f609a058-d149-4b45-bc00-3f6c4d88f56b)
 
 *   **Display Name:** `Autostereogram Creator (Advanced)`
 *   **Function:** Generates Single Image Random Dot Stereograms (SIRDS), also known as "Magic Eye" images.
@@ -123,6 +129,7 @@ Below is a summary of each node provided in this pack:
 ---
 
 ### 7. Checkerboard Composer (`CheckerboardNode.py`)
+![image](https://github.com/user-attachments/assets/e27a42be-c3d4-4777-b178-0f01ab8e33ad)
 
 *   **Display Name:** `Checkerboard Composer`
 *   **Function:** Creates a checkerboard pattern using two input images as alternating tiles.
@@ -137,6 +144,7 @@ Below is a summary of each node provided in this pack:
 ---
 
 ### 8. Tile Image Repeater (Smart Resize) (`TileImageRepeaterNode.py`)
+![image](https://github.com/user-attachments/assets/34234511-cba8-414c-b7ec-bb825f055736)
 
 *   **Display Name:** `Tile Image Repeater (Smart Resize)`
 *   **Function:** Repeats an input image to create a larger tiled image, with intelligent resizing options for the base tile.
