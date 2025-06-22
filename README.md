@@ -43,7 +43,7 @@ Below is a summary of each node provided in this pack:
             *   `parameter1`: 0 for Color Noise, 1 for Grayscale Noise.
             *   `parameter2`: Block scale (1 for pixel-level noise).
     *   Customizable `width`, `height`, `color1_hex`, `color2_hex`, and `seed`.
-![image](https://github.com/user-attachments/assets/51a376d8-bd41-486e-b4f4-73397fd630e9)
+
 ---
 
 ### 2. Tessellation Composer (Advanced) (`TessellationNode.py`)
@@ -163,3 +163,22 @@ Below is a summary of each node provided in this pack:
 ---
 
 Enjoy creating illusions and patterns!
+
+
+<div align="center">
+
+<h3>🌟 <strong>Show Your Support</strong></h3>
+
+<p>If this project helped you, please consider giving it a ⭐ on GitHub!</p>
+
+<p><strong>Made with ❤️ for the ComfyUI community</strong></p>
+
+<p><strong>by Orion4D</strong></p>
+
+<a href="https://ko-fi.com/orion4d">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
+</div>
+
+
