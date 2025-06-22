@@ -10,7 +10,7 @@ This repository contains a collection of custom nodes for ComfyUI, designed for 
     ```
 2.  Clone this repository:
     ```bash
-    git clone <your_repository_url_here> ComfyUI-IllusionNodes
+    git clone https://github.com/orion4d/illusion_node.git
     ```
     (Replace `<your_repository_url_here>` with the actual URL of your Git repository).
 3.  Restart ComfyUI.
